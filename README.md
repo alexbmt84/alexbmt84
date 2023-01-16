@@ -32,6 +32,39 @@ npx alexisbeaumont
   <a href="https://github.com/alexbmt84"><img src="https://camo.githubusercontent.com/8bfbdd7d64ac7d14fe465cda9b1d5bb1ea174cc2d2ad19d3187adff2e3b5da13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/Github-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://www.linkedin.com/in/alexis-beaumont/" rel="nofollow"><img src="https://camo.githubusercontent.com/a21dd661508f600d545c254d21aa4e2a6f003362edeee147dd8ac14d76ade072/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
+
+```javascript
+const alexis = {
+  pronouns: "He" | "Him",
+  code: ["PHP", "Javascript", "HTML", "CSS"],
+  askMeAbout: ["web dev", "tech", "music", "cinema", "sports"],
+  technologies: {
+    frontEnd: {
+      css: ["Bootstrap", "TailwindCSS"],
+      javascript: ["VueJs", "ChartJS"],
+    },
+    backEnd: {
+      javascript: ["NodeJs"],
+      php: ["Symfony"],
+    },
+    devOps: ["Looking for an apprenticeship..."],
+    databases: ["MySql"],
+  },
+  architecture: [
+    "Serverless Architecture",
+    "Progressive web applications",
+    "Single page applications",
+  ],
+  currentFocus: "CDA DevOps - 06/03/2023 - 06/09/2024",
+  facts: {
+    racsist: false,
+    sexist: false,
+  },
+  goodToKnow: "First, solve the problem. Then, write the code.",
+  rubbishJoke: "Ruby is rubbish! PHP is phpantastic!",
+};
+```
+
 <!--
 **alexbmt84/alexbmt84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
