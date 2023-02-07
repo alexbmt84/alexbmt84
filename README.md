@@ -2,7 +2,7 @@
 <p>Welcome to my page! </br> I'm Alexis, Junior Developer from <b>Avignon, France </b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>.</p>
 <p><b>I am currently looking for a DevOps apprenticeship</b>.</p>
 
-## 👨‍💻 Run my business card
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Factory%20Worker.png" alt="Man Factory Worker" width="55" height="55" /> Run my business card
 
 ```bash
 npx alexisbeaumont
