@@ -1,4 +1,4 @@
-<h1>Hey! Nice to see you! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1>Hey! Nice to see you! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="55" height="55" /></h1>
 <p>Welcome to my page! </br> I'm Alexis, Junior Developer from <b>Avignon, France </b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>.</p>
 <p><b>I am currently looking for a DevOps apprenticeship</b>.</p>
 
