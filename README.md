@@ -47,27 +47,37 @@ const alexis = {
   technologies: {
     frontEnd: {
       css: ["Bootstrap", "TailwindCSS"],
-      javascript: ["VueJs", "ChartJS"],
+      javascript: [
+        "VueJs",
+        "ChartJs",
+        "ReactJs",
+        "NextJs"
+      ],
     },
     backEnd: {
-      javascript: ["NodeJs"],
-      php: ["Symfony"],
+      javascript: ["ExpressJs"],
+      php: [
+        "Laravel",
+        "Symfony",
+        "PHPUnit",
+        "PestPHP"
+      ],
     },
-    devOps: ["Looking for an apprenticeship..."],
-    databases: ["MySql"],
+    devOps: ["Docker", "Ansible"],
+    databases: ["MySql", "MongoDB", "Neo4j"],
   },
   architecture: [
     "Serverless Architecture",
     "Progressive web applications",
     "Single page applications",
   ],
-  currentFocus: "CDA DevOps - 06/03/2023 - 06/09/2024",
+  currentFocus: "Programmer Apprentice @Glanum",
   facts: {
     racsist: false,
     sexist: false,
   },
   goodToKnow: "First, solve the problem. Then, write the code.",
-  rubbishJoke: "Ruby is rubbish! PHP is phpantastic!",
+  rubbishJoke: "Ruby is rubbish! PHP is phpantastic...",
 };
 ```
 
