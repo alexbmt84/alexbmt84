@@ -26,6 +26,7 @@ npx alexisbeaumont
   <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-%231572B6?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <h3>Things I design with :</h3>
 <p>
