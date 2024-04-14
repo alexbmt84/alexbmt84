@@ -20,6 +20,7 @@ npx alexisbeaumont
   <img alt="mysql" src="https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=%234FC08D" />
   <img alt="NodeJs" src="https://img.shields.io/badge/nodejs-%2335495e.svg?style=for-the-badge&logo=nodedotjs&logoColor=%234FC08D" />
   <img alt="ReactJs" src="https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="nextjs" src="https://img.shields.io/badge/nextjs-%23323330.svg?style=for-the-badge&logo=nextjs&logoColor=%234FC08D" />
   <img alt="VueJs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23777BB4.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
   <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
